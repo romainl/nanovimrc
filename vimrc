@@ -1,0 +1,9 @@
+set autoindent
+set backspace=indent,eol,start
+set hidden
+set incsearch
+set path=.,**
+set ruler
+set shiftround
+set smarttab
+set wildmenu
